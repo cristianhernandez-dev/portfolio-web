@@ -3,7 +3,7 @@ export default function App() {
     {
       title: "Vue Food Product Showcase",
       description:
-        "Aplicación desarrollada con Vue.js para visualizar productos, filtrar contenido, marcar favoritos y revisar detalles mediante una interfaz limpia y dinámica. Impacto:La migración a una API más estable redujo errores de carga y mejoró la disponibilidad de datos en la aplicación.",
+        "Aplicación desarrollada con Vue.js para visualizar productos, filtrar contenido, marcar favoritos y revisar detalles mediante una interfaz limpia y dinámica. Impacto: La migración a una API más estable redujo errores de carga y mejoró la disponibilidad de datos en la aplicación.",
       github: "https://github.com/cristianhernandez-dev/vue-food-product-showcase.git",
       demo: "https://cristianhernandez-dev.github.io/vue-food-product-showcase/#/",
       tech: ["Vue 3", "JavaScript", "Vuetify", "API", "GitHub Pages", "Vite", "Vue Router", "Vue I18n"],
